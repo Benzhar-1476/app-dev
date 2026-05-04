@@ -47,7 +47,7 @@ He gains unique powers, befriends monsters, and builds a nation where all races 
 
 ---
 
-### 📝 Code Block Example (for fun)
+### 
 ```markdown
 # Tensura Quick Facts
 - Title: That Time I Got Reincarnated as a Slime
